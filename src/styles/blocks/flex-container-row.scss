@@ -1,8 +1,0 @@
-.flex-container-row {
-  display: flex;
-  justify-content: space-between;
-
-  @include onTablet {
-    display: block;
-  }
-}
